@@ -1,2 +1,3 @@
 # noir
-coding
+print("Hello world")
+
